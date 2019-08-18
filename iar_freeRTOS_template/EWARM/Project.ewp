@@ -346,12 +346,11 @@
                 <option>
                     <name>CCIncludePath2</name>
                     <state>$PROJ_DIR$\..</state>
-                    <state>C:\Users\Admin\Downloads\read_RC_rtos\Libraries\CMSIS\Device\ST\STM32F4xx\Include</state>
-                    <state>C:\Users\Admin\Downloads\read_RC_rtos\Libraries\STM32F4xx_StdPeriph_Driver\inc</state>
-                    <state>$PROJ_DIR$\</state>
-                    <state>C:\Users\Admin\Downloads\read_RC_rtos\FreeRTOS\include</state>
-                    <state>C:\Users\Admin\Downloads\read_RC_rtos\FreeRTOS\portable\IAR\ARM_CM4F</state>
-                    <state>C:\Users\Admin\Downloads\read_RC_rtos\Libraries\CMSIS\Device\ST\STM32F4xx\Source\Templates\iar</state>
+                    <state>$PROJ_DIR$\..\Libraries\CMSIS\Device\ST\STM32F4xx\Include</state>
+                    <state>$PROJ_DIR$\..\Libraries\STM32F4xx_StdPeriph_Driver\inc</state>
+                    <state>$PROJ_DIR$\..\FreeRTOS\include</state>
+                    <state>$PROJ_DIR$\..\FreeRTOS\portable\IAR\ARM_CM4F</state>
+                    <state>C:\Users\Admin\Downloads\DT_RTOS-master\iar_freeRTOS_template\Libraries\CMSIS\Device\ST\STM32F4xx\Source\Templates\iar</state>
                 </option>
                 <option>
                     <name>CCStdIncCheck</name>
