@@ -1,4 +1,7 @@
-To be uploaded to Github
+# Intro
+- This project contains FreeRTOS-based template using IAR and Keil C.
+- The most-efficient way to get the correct FreeRTOS HAL template for your target board is using the STMCubeMX code generation tool and select the right options.
+
 # RTOS icviet 19.8.2017 note
 tích hơp source code RTOS vào con mcu mình muốn.
 
